@@ -1,0 +1,6 @@
+D:\STRUDIA - Inf PO\sem III\Programowanie II - C#\cwiczenia\Nowe Klasy zagnieżdżone\Nowe Klasy zagnieżdżone\bin\Debug\Nowe Klasy zagnieżdżone.exe
+D:\STRUDIA - Inf PO\sem III\Programowanie II - C#\cwiczenia\Nowe Klasy zagnieżdżone\Nowe Klasy zagnieżdżone\bin\Debug\Nowe Klasy zagnieżdżone.pdb
+D:\STRUDIA - Inf PO\sem III\Programowanie II - C#\cwiczenia\Nowe Klasy zagnieżdżone\Nowe Klasy zagnieżdżone\obj\Debug\Nowe Klasy zagnieżdżone.csprojAssemblyReference.cache
+D:\STRUDIA - Inf PO\sem III\Programowanie II - C#\cwiczenia\Nowe Klasy zagnieżdżone\Nowe Klasy zagnieżdżone\obj\Debug\Nowe Klasy zagnieżdżone.csproj.CoreCompileInputs.cache
+D:\STRUDIA - Inf PO\sem III\Programowanie II - C#\cwiczenia\Nowe Klasy zagnieżdżone\Nowe Klasy zagnieżdżone\obj\Debug\Nowe Klasy zagnieżdżone.exe
+D:\STRUDIA - Inf PO\sem III\Programowanie II - C#\cwiczenia\Nowe Klasy zagnieżdżone\Nowe Klasy zagnieżdżone\obj\Debug\Nowe Klasy zagnieżdżone.pdb
